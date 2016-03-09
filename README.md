@@ -4,10 +4,6 @@ The 74HC595 is a serial to parallel shift register.  This IC will allow you to e
 
 The Tutorial gives a number of coding examples.  Below is one I did to give the Night Rider appearance.  Note: The shift register is not what gives the appearance of the led going back and foth...ie shifting. All the shifting happens prior to the output states changing. The led appears to be shifting because it is in a loop writing int 1, 2, 4, 8, 16, 32, 64, 128, 64, 32, 16, 8, 4, and 2.
 
-![alt text](https://github.com/driewe/74HC595/blob/master/project.PNG "My Implementation of 74HC595 circuit")
-
-
-
-[Video of my setup imitating Kit.](https://www.youtube.com/embed/-JyDOHiEaF0)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/-JyDOHiEaF0/0.jpg)](http://www.youtube.com/watch?v=-JyDOHiEaF0)
 
 [Source Code.](https://github.com/driewe/74HC595/blob/master/SourceCode/shiftregister-nightrider.ino)
