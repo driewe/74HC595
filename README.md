@@ -6,6 +6,6 @@ The Tutorial gives a number of coding examples.  Below is one I did to give the 
 
 Click Image Below To Watch Video
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/-JyDOHiEaF0/0.jpg)](https://youtu.be/R6hV60vy4L4)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/-JyDOHiEaF0/0.jpg)](https://youtu.be/-JyDOHiEaF0)
 
 [Source Code.](https://github.com/driewe/74HC595/blob/master/SourceCode/shiftregister-nightrider.ino)
